@@ -1,5 +1,14 @@
-# automation-of-chrome-dinosaur
-its a python project
+
+
+
+
+
+
+
+
+
+
+
 
 import pyautogui
 pyautogui.keydown('h')
